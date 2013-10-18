@@ -1,7 +1,8 @@
 Capstone_PictureRecommendationApp
 ===============================
 Description
-It's a picture recommedation application with machine learning.
+
+It's a picture recommendation application with machine learning.
 
 Featrues
 - Picture comparison:
